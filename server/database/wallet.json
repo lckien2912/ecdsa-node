@@ -1,0 +1,38 @@
+[
+  {
+    "privateKey": "5f007d996c423848b49149cbada7f22e64ab2ae6de356a0c3ca29b61a3d993ab",
+    "publicKey": "0303e36afdcab27b9c6d7106eaf26e4589fca9c95e171865d70083672dcf9dcc93",
+    "walletAddress": "0xa8244b94da81610d42106f381bae6ef90064a1ad",
+    "balance": 776
+  },
+  {
+    "privateKey": "78861303d8babdc6797660d011c14dfc90e779c9ffe8377d551f2daee6f007fe",
+    "publicKey": "026b125dcb4f20060a83b4add500b5cc07cb66fbd193abeb92c6e130171a54ec2f",
+    "walletAddress": "0xd1232635db084cc09982ffbadf7fa0fa14f902fc",
+    "balance": 0
+  },
+  {
+    "privateKey": "e4c20136a1a775f8cce01b6004a22a3e36ec4a14e724549778c249c4a51f13c1",
+    "publicKey": "0391d93848a2ffb7fb447b7af6850a9a27f9bce8cc524cfd4da675b54f1e9bf61a",
+    "walletAddress": "0x96def021ece7581b3ff16b3e536a55b8559ec584",
+    "balance": 2
+  },
+  {
+    "privateKey": "08776749055be762aecfbb8fa3c9a21f513d50edfd639d0d63931c8eb1a2c779",
+    "publicKey": "03aa2f498878f2dea0a890e949aee45bf64f2c28a9ee0369321295e428f75cac94",
+    "walletAddress": "0xa47e5cadb7bdd6c3618b130d25e6ce1b45c6c850",
+    "balance": 200
+  },
+  {
+    "privateKey": "5bd38d9234fe4263b6976e7fd3656b1c8f1a367f7327f30cb9eb649867336dd1",
+    "publicKey": "03ab0be35ef4733322dfd5b985472a16953b1283d1a45a83b3d52bebb2102f7da6",
+    "walletAddress": "0xde2397d2096f7cf99c06f335be1d5171ad26e5bf",
+    "balance": 22
+  },
+  {
+    "privateKey": "8b06822ce9ed924a594b80bd3248b88868f316ca605820e1ebe52f5eb1eaf4ac",
+    "publicKey": "03d6f5317caf4dccee5a4debe83957746f6e783857315287ffb4b447ba73c37a5b",
+    "walletAddress": "0x772230caf17abebde5a2e698df8f8c2161eec0ec",
+    "balance": 0
+  }
+]
